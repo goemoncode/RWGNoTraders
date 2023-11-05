@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<Name value="RWGNoTraders"/>
+	<DisplayName value="RWGNoTraders"/>
+	<Version value="1.0.0"/>
+	<Description value="This mod patches RWG to be able to generate a world with no traders."/>
+	<Author value="goemoncode"/>
+	<Website value=""/>
+</xml>

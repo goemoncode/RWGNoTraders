@@ -1,0 +1,6 @@
+<modconfig>
+	<preference name="MinNumPlayerSpawns" value="5"/>
+	<preference name="MaxNumPlayerSpawns" value="30"/>
+	<preference name="SpawnRangeDefault" value="600"/>
+	<preference name="SpawnRangeWide" value="1000"/>
+</modconfig>
